@@ -2,9 +2,9 @@
 
 // DEBUG
 
-$get = var_export( $_GET, true );
-$post = var_export( $_POST, true );
-$file = dirname(__FILE__) . '/log.txt';
+// $get = var_export( $_GET, true );
+// $post = var_export( $_POST, true );
+// $file = dirname(__FILE__) . '/log.txt';
 
 
 // file_put_contents($file, '======================= ' . date('c') . " =======================\n\n", FILE_APPEND);
